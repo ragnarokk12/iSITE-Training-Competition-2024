@@ -1,0 +1,14 @@
+D:\Gabby Erestain\1-1 CS GAME DEV\iSITE compe\VS 2023\inputReverseArray\bin\Debug\net8.0\inputReverseArray.exe
+D:\Gabby Erestain\1-1 CS GAME DEV\iSITE compe\VS 2023\inputReverseArray\bin\Debug\net8.0\inputReverseArray.deps.json
+D:\Gabby Erestain\1-1 CS GAME DEV\iSITE compe\VS 2023\inputReverseArray\bin\Debug\net8.0\inputReverseArray.runtimeconfig.json
+D:\Gabby Erestain\1-1 CS GAME DEV\iSITE compe\VS 2023\inputReverseArray\bin\Debug\net8.0\inputReverseArray.dll
+D:\Gabby Erestain\1-1 CS GAME DEV\iSITE compe\VS 2023\inputReverseArray\bin\Debug\net8.0\inputReverseArray.pdb
+D:\Gabby Erestain\1-1 CS GAME DEV\iSITE compe\VS 2023\inputReverseArray\obj\Debug\net8.0\inputReverseArray.GeneratedMSBuildEditorConfig.editorconfig
+D:\Gabby Erestain\1-1 CS GAME DEV\iSITE compe\VS 2023\inputReverseArray\obj\Debug\net8.0\inputReverseArray.AssemblyInfoInputs.cache
+D:\Gabby Erestain\1-1 CS GAME DEV\iSITE compe\VS 2023\inputReverseArray\obj\Debug\net8.0\inputReverseArray.AssemblyInfo.cs
+D:\Gabby Erestain\1-1 CS GAME DEV\iSITE compe\VS 2023\inputReverseArray\obj\Debug\net8.0\inputReverseArray.csproj.CoreCompileInputs.cache
+D:\Gabby Erestain\1-1 CS GAME DEV\iSITE compe\VS 2023\inputReverseArray\obj\Debug\net8.0\inputReverseArray.dll
+D:\Gabby Erestain\1-1 CS GAME DEV\iSITE compe\VS 2023\inputReverseArray\obj\Debug\net8.0\refint\inputReverseArray.dll
+D:\Gabby Erestain\1-1 CS GAME DEV\iSITE compe\VS 2023\inputReverseArray\obj\Debug\net8.0\inputReverseArray.pdb
+D:\Gabby Erestain\1-1 CS GAME DEV\iSITE compe\VS 2023\inputReverseArray\obj\Debug\net8.0\inputReverseArray.genruntimeconfig.cache
+D:\Gabby Erestain\1-1 CS GAME DEV\iSITE compe\VS 2023\inputReverseArray\obj\Debug\net8.0\ref\inputReverseArray.dll

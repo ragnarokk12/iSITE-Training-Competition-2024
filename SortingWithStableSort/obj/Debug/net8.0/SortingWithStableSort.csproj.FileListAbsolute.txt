@@ -1,0 +1,14 @@
+D:\Gabby Erestain\1-1 CS GAME DEV\iSITE compe\VS 2023\SortingWithStableSort\bin\Debug\net8.0\SortingWithStableSort.exe
+D:\Gabby Erestain\1-1 CS GAME DEV\iSITE compe\VS 2023\SortingWithStableSort\bin\Debug\net8.0\SortingWithStableSort.deps.json
+D:\Gabby Erestain\1-1 CS GAME DEV\iSITE compe\VS 2023\SortingWithStableSort\bin\Debug\net8.0\SortingWithStableSort.runtimeconfig.json
+D:\Gabby Erestain\1-1 CS GAME DEV\iSITE compe\VS 2023\SortingWithStableSort\bin\Debug\net8.0\SortingWithStableSort.dll
+D:\Gabby Erestain\1-1 CS GAME DEV\iSITE compe\VS 2023\SortingWithStableSort\bin\Debug\net8.0\SortingWithStableSort.pdb
+D:\Gabby Erestain\1-1 CS GAME DEV\iSITE compe\VS 2023\SortingWithStableSort\obj\Debug\net8.0\SortingWithStableSort.GeneratedMSBuildEditorConfig.editorconfig
+D:\Gabby Erestain\1-1 CS GAME DEV\iSITE compe\VS 2023\SortingWithStableSort\obj\Debug\net8.0\SortingWithStableSort.AssemblyInfoInputs.cache
+D:\Gabby Erestain\1-1 CS GAME DEV\iSITE compe\VS 2023\SortingWithStableSort\obj\Debug\net8.0\SortingWithStableSort.AssemblyInfo.cs
+D:\Gabby Erestain\1-1 CS GAME DEV\iSITE compe\VS 2023\SortingWithStableSort\obj\Debug\net8.0\SortingWithStableSort.csproj.CoreCompileInputs.cache
+D:\Gabby Erestain\1-1 CS GAME DEV\iSITE compe\VS 2023\SortingWithStableSort\obj\Debug\net8.0\SortingWithStableSort.dll
+D:\Gabby Erestain\1-1 CS GAME DEV\iSITE compe\VS 2023\SortingWithStableSort\obj\Debug\net8.0\refint\SortingWithStableSort.dll
+D:\Gabby Erestain\1-1 CS GAME DEV\iSITE compe\VS 2023\SortingWithStableSort\obj\Debug\net8.0\SortingWithStableSort.pdb
+D:\Gabby Erestain\1-1 CS GAME DEV\iSITE compe\VS 2023\SortingWithStableSort\obj\Debug\net8.0\SortingWithStableSort.genruntimeconfig.cache
+D:\Gabby Erestain\1-1 CS GAME DEV\iSITE compe\VS 2023\SortingWithStableSort\obj\Debug\net8.0\ref\SortingWithStableSort.dll

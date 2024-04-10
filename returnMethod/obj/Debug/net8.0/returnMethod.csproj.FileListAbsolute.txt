@@ -1,0 +1,14 @@
+D:\Gabby Erestain\1-1 CS GAME DEV\iSITE compe\VS 2023\returnMethod\bin\Debug\net8.0\returnMethod.exe
+D:\Gabby Erestain\1-1 CS GAME DEV\iSITE compe\VS 2023\returnMethod\bin\Debug\net8.0\returnMethod.deps.json
+D:\Gabby Erestain\1-1 CS GAME DEV\iSITE compe\VS 2023\returnMethod\bin\Debug\net8.0\returnMethod.runtimeconfig.json
+D:\Gabby Erestain\1-1 CS GAME DEV\iSITE compe\VS 2023\returnMethod\bin\Debug\net8.0\returnMethod.dll
+D:\Gabby Erestain\1-1 CS GAME DEV\iSITE compe\VS 2023\returnMethod\bin\Debug\net8.0\returnMethod.pdb
+D:\Gabby Erestain\1-1 CS GAME DEV\iSITE compe\VS 2023\returnMethod\obj\Debug\net8.0\returnMethod.GeneratedMSBuildEditorConfig.editorconfig
+D:\Gabby Erestain\1-1 CS GAME DEV\iSITE compe\VS 2023\returnMethod\obj\Debug\net8.0\returnMethod.AssemblyInfoInputs.cache
+D:\Gabby Erestain\1-1 CS GAME DEV\iSITE compe\VS 2023\returnMethod\obj\Debug\net8.0\returnMethod.AssemblyInfo.cs
+D:\Gabby Erestain\1-1 CS GAME DEV\iSITE compe\VS 2023\returnMethod\obj\Debug\net8.0\returnMethod.csproj.CoreCompileInputs.cache
+D:\Gabby Erestain\1-1 CS GAME DEV\iSITE compe\VS 2023\returnMethod\obj\Debug\net8.0\returnMethod.dll
+D:\Gabby Erestain\1-1 CS GAME DEV\iSITE compe\VS 2023\returnMethod\obj\Debug\net8.0\refint\returnMethod.dll
+D:\Gabby Erestain\1-1 CS GAME DEV\iSITE compe\VS 2023\returnMethod\obj\Debug\net8.0\returnMethod.pdb
+D:\Gabby Erestain\1-1 CS GAME DEV\iSITE compe\VS 2023\returnMethod\obj\Debug\net8.0\returnMethod.genruntimeconfig.cache
+D:\Gabby Erestain\1-1 CS GAME DEV\iSITE compe\VS 2023\returnMethod\obj\Debug\net8.0\ref\returnMethod.dll

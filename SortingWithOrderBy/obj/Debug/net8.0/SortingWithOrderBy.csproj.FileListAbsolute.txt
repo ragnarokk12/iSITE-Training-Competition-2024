@@ -1,0 +1,14 @@
+D:\Gabby Erestain\1-1 CS GAME DEV\iSITE compe\VS 2023\SortingWithOrderBy\bin\Debug\net8.0\SortingWithOrderBy.exe
+D:\Gabby Erestain\1-1 CS GAME DEV\iSITE compe\VS 2023\SortingWithOrderBy\bin\Debug\net8.0\SortingWithOrderBy.deps.json
+D:\Gabby Erestain\1-1 CS GAME DEV\iSITE compe\VS 2023\SortingWithOrderBy\bin\Debug\net8.0\SortingWithOrderBy.runtimeconfig.json
+D:\Gabby Erestain\1-1 CS GAME DEV\iSITE compe\VS 2023\SortingWithOrderBy\bin\Debug\net8.0\SortingWithOrderBy.dll
+D:\Gabby Erestain\1-1 CS GAME DEV\iSITE compe\VS 2023\SortingWithOrderBy\bin\Debug\net8.0\SortingWithOrderBy.pdb
+D:\Gabby Erestain\1-1 CS GAME DEV\iSITE compe\VS 2023\SortingWithOrderBy\obj\Debug\net8.0\SortingWithOrderBy.GeneratedMSBuildEditorConfig.editorconfig
+D:\Gabby Erestain\1-1 CS GAME DEV\iSITE compe\VS 2023\SortingWithOrderBy\obj\Debug\net8.0\SortingWithOrderBy.AssemblyInfoInputs.cache
+D:\Gabby Erestain\1-1 CS GAME DEV\iSITE compe\VS 2023\SortingWithOrderBy\obj\Debug\net8.0\SortingWithOrderBy.AssemblyInfo.cs
+D:\Gabby Erestain\1-1 CS GAME DEV\iSITE compe\VS 2023\SortingWithOrderBy\obj\Debug\net8.0\SortingWithOrderBy.csproj.CoreCompileInputs.cache
+D:\Gabby Erestain\1-1 CS GAME DEV\iSITE compe\VS 2023\SortingWithOrderBy\obj\Debug\net8.0\SortingWithOrderBy.dll
+D:\Gabby Erestain\1-1 CS GAME DEV\iSITE compe\VS 2023\SortingWithOrderBy\obj\Debug\net8.0\refint\SortingWithOrderBy.dll
+D:\Gabby Erestain\1-1 CS GAME DEV\iSITE compe\VS 2023\SortingWithOrderBy\obj\Debug\net8.0\SortingWithOrderBy.pdb
+D:\Gabby Erestain\1-1 CS GAME DEV\iSITE compe\VS 2023\SortingWithOrderBy\obj\Debug\net8.0\SortingWithOrderBy.genruntimeconfig.cache
+D:\Gabby Erestain\1-1 CS GAME DEV\iSITE compe\VS 2023\SortingWithOrderBy\obj\Debug\net8.0\ref\SortingWithOrderBy.dll

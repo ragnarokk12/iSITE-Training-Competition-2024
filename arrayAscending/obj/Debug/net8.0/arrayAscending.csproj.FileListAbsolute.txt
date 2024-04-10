@@ -1,0 +1,14 @@
+D:\Gabby Erestain\1-1 CS GAME DEV\iSITE compe\VS 2023\arrayAscending\bin\Debug\net8.0\arrayAscending.exe
+D:\Gabby Erestain\1-1 CS GAME DEV\iSITE compe\VS 2023\arrayAscending\bin\Debug\net8.0\arrayAscending.deps.json
+D:\Gabby Erestain\1-1 CS GAME DEV\iSITE compe\VS 2023\arrayAscending\bin\Debug\net8.0\arrayAscending.runtimeconfig.json
+D:\Gabby Erestain\1-1 CS GAME DEV\iSITE compe\VS 2023\arrayAscending\bin\Debug\net8.0\arrayAscending.dll
+D:\Gabby Erestain\1-1 CS GAME DEV\iSITE compe\VS 2023\arrayAscending\bin\Debug\net8.0\arrayAscending.pdb
+D:\Gabby Erestain\1-1 CS GAME DEV\iSITE compe\VS 2023\arrayAscending\obj\Debug\net8.0\arrayAscending.GeneratedMSBuildEditorConfig.editorconfig
+D:\Gabby Erestain\1-1 CS GAME DEV\iSITE compe\VS 2023\arrayAscending\obj\Debug\net8.0\arrayAscending.AssemblyInfoInputs.cache
+D:\Gabby Erestain\1-1 CS GAME DEV\iSITE compe\VS 2023\arrayAscending\obj\Debug\net8.0\arrayAscending.AssemblyInfo.cs
+D:\Gabby Erestain\1-1 CS GAME DEV\iSITE compe\VS 2023\arrayAscending\obj\Debug\net8.0\arrayAscending.csproj.CoreCompileInputs.cache
+D:\Gabby Erestain\1-1 CS GAME DEV\iSITE compe\VS 2023\arrayAscending\obj\Debug\net8.0\arrayAscending.dll
+D:\Gabby Erestain\1-1 CS GAME DEV\iSITE compe\VS 2023\arrayAscending\obj\Debug\net8.0\refint\arrayAscending.dll
+D:\Gabby Erestain\1-1 CS GAME DEV\iSITE compe\VS 2023\arrayAscending\obj\Debug\net8.0\arrayAscending.pdb
+D:\Gabby Erestain\1-1 CS GAME DEV\iSITE compe\VS 2023\arrayAscending\obj\Debug\net8.0\arrayAscending.genruntimeconfig.cache
+D:\Gabby Erestain\1-1 CS GAME DEV\iSITE compe\VS 2023\arrayAscending\obj\Debug\net8.0\ref\arrayAscending.dll
